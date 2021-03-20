@@ -1,0 +1,5 @@
+Bid_ID,Bidder_ID,zone,Day,hour,capacity,cost
+0,Two Wheeler Fleet,1,1,1,448,750
+1,Four Wheeler Fleet,1,1,1,990,751
+2,Class Six HDV Fleet,1,1,1,2032,752
+3,Class Eight HDV Fleet,1,1,1,922,753

@@ -1,0 +1,18 @@
+{	"Aggregators":	[
+		{"Name": "Two Wheelers", "Size":95387672, "Average_Vehicle_Capacity": 25, "Weekly_Usage" : [0.55,0.45,0.75,0.91,0.86,0.86,0.66], "Avg_Daily_Demand" : 0.31, "Cost_Limit": 600,
+		"bid_count":20,"charge_start_mu":[12,12,12,12,12,12,12], "charge_start_sigma":[6,6,6,6,6,6,6], "charge_length_mu":[1,1,1,1,1,1,1], "charge_length_sigma":[2,2,2,2,2,2,2]},
+		
+		{"Name": "Four Wheelers", "Size":23846918, "Average_Vehicle_Capacity":150, "Weekly_Usage" : [0.3,0.7,0.4,0.35,0.8,0.9,0.9], "Avg_Daily_Demand" : 2.13, "Cost_Limit": 600,
+		"bid_count":20,"charge_start_mu":[14,14,14,14,14,14,14], "charge_start_sigma":[1,1,1,1,1,1,1], "charge_length_mu":[3,3,3,3,3,3,3], "charge_length_sigma":[4,4,4,4,4,4,4]},
+		
+		{"Name": "Class 6 HDV", "Size":5611039, "Average_Vehicle_Capacity": 180, "Weekly_Usage" : [0.55,0.45,0.75,0.91,0.86,0.86,0.66], "Avg_Daily_Demand" : 34.70, "Cost_Limit": 600,
+		"bid_count":20,"charge_start_mu":[2,2,2,2,2,2,2], "charge_start_sigma":[1,1,1,1,1,1,1], "charge_length_mu":[3,3,3,3,3,3,3], "charge_length_sigma":[4,4,4,4,4,4,4]}
+		
+	],
+	"Units": {
+		"Average_Vehicle_Capacity":"kWh",
+		"Avg_Daily_Demand" : "kWh",
+		"Cost_Limit" : "USD"
+	}
+
+}

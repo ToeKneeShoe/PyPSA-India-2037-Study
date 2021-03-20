@@ -1,0 +1,7 @@
+Generator Name,Type,Price (USD),Power (MW)
+Hydro Gen 1,Hydro,$0 ,100
+Wind Gen 2,Wind,$5 ,250
+Nuclear Gen 3,Nuclear,$20 ,500
+Coal Gen 4,Coal,$40 ,3000
+Gas Gen 5,Gas,$45 ,7000
+Oil Gen 6,Oil,$100 ,1000
